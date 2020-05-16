@@ -1,0 +1,159 @@
+body
+{
+background-color:#f8e1f4;
+color:#40514E;
+margin:0;
+text-align:center;
+font-family:'Rubik', sans-serif;
+}
+p{
+line-height:2;
+}
+
+h1
+{
+margin:50px auto 0 auto;
+color:#730e9c;
+font-size:5.625rem;
+font-family:'Sacramento', cursive;
+}
+
+.skill-row
+{
+width:50%;
+margin: 100px auto 100px auto;
+text-align:left;
+}
+
+.intro
+{
+width:50%;
+margin:auto;
+font-weight:normal;
+}
+
+.topcont
+{
+background-color:#efa8e4;
+padding:50px 0 20px;
+background-image: url('images/purple.png');
+background-size:cover;
+background-repeat: no-repeat;
+
+}
+
+
+.bottomcont
+{background-color:#ffe8df;
+padding:50px 0 20px;
+}
+
+.profile-img
+{
+width:25%;
+}
+
+.pic
+{width:20%;
+margin-bottom:100px;
+opacity:0.5;
+border-radius:50%;
+}
+
+.prog
+{
+float:left;
+margin-right:30px;
+width:40%;
+border-radius:50%;}
+
+.mic
+{
+float:right;
+margin-left:30px;
+width:30%;
+border-radius:50%;
+
+}
+
+h2
+{
+font-size: 2rem;
+font-family: 'Rubik', sans-serif;
+color:#730e9c;
+padding-bottom:10px;}
+
+h3
+{
+color:#730e9c;
+}
+
+.intro
+{
+font-weight:normal;
+}
+
+.middlecont
+{background-color:#f8e1f4;
+margin:100px auto;
+}
+
+hr
+{ border: dotted #af8baf 6px;
+border-bottom:none;
+width:4%;
+margin:100px auto;
+}
+
+.contactmessage
+{
+width:40%;
+margin:40px auto 60px;
+}
+
+.btn
+ {
+	box-shadow:inset 0px 1px 0px 0px #efdcfb;
+	background:linear-gradient(to bottom, #dfbdfa 5%, #bc80ea 100%);
+	background-color:#dfbdfa;
+	border-radius:8px;
+	border:1px solid #c584f3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Rubik', sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #9752cc;
+}
+
+.btn:hover {
+	background:linear-gradient(to bottom, #bc80ea 5%, #dfbdfa 100%);
+	background-color:#bc80ea;
+}
+
+.btn:active {
+	position:relative;
+	top:1px;}
+
+a
+{color:#730e9c;
+font-family:'Rubik', sans-serif;
+margin:10px 20px;
+text-decoration:none;
+}
+
+a:hover
+{
+color:#bc80ea;
+}
+
+.cr
+{
+color:#bc80ea;
+font-size:0.75rem;
+padding: 20px 0;
+}
+
